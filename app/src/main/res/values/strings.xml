@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BluetoothPOC</string>
+    <string name="no_paired_devices">No Paired Devices</string>
+    <string name="discover_devices">Discover Devices</string>
+    <string name="stop_search">Stop Search</string>
+    <string name="paired_devices">Paired Devices</string>
+    <string name="search_device">Searching for Devices</string>
+</resources>
